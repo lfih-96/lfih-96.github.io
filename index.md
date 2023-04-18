@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hola, mi nombre es : Luis Fernando Ilbay Hernández'
+description: " Soy estudiante de la carrera de Pedagogía en Ciencias Experimentales: Informática "
 image: null
 author: null
 show_tile: false
