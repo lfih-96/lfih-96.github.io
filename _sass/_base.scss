@@ -165,17 +165,20 @@ header {
         width: 100%;
         .header-content-inner {
             h1 {
-                -webkit-text-stroke: 2px orangered;
                 font-weight: 700;
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
             }
+            #-headerh1 {
+                -webkit-text-stroke: 2px orangered;
+            }
+
+            
             hr {
                 margin: 30px auto;
             }
             p {
-                -webkit-text-stroke: 0.2px orangered;
                 font-weight: 300;
                 color: rgba(white, .7);
                 font-size: 16px;
