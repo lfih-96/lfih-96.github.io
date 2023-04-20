@@ -184,6 +184,9 @@ header {
                 font-size: 16px;
                 margin-bottom: 50px;
             }
+            #headerp{
+                -webkit-text-stroke: 0.5px orangered;
+            }
         }
     }
     @media (min-width: 768px) {
