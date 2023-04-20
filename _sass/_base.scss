@@ -68,6 +68,9 @@ aside {
 }
 
 // Navigation
+.nav navbar-nav navbar-right{
+    color: black;
+}
 .navbar-default {
     background-color: white;
     border-color: rgba($theme-dark, .5);
