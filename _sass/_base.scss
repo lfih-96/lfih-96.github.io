@@ -157,7 +157,7 @@ header {
     background-position: center;
     background-image: url('../img/fer1.jpg');
     text-align: center;
-    color: rgb(163, 79, 24);
+    color: white;
     .header-content {
         position: relative;
         text-align: center;
@@ -169,6 +169,7 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
+                text-shadow: 3px 0px 0px orangered;
             }
             hr {
                 margin: 30px auto;
@@ -178,6 +179,7 @@ header {
                 color: rgba(white, .7);
                 font-size: 16px;
                 margin-bottom: 50px;
+                text-shadow: 3px 0px 0px orangered;
             }
         }
     }
